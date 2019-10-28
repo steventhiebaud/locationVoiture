@@ -15,6 +15,7 @@ data
 
 
 steven = 26
+age = steven + 2 - 2
 
 
 

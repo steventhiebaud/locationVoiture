@@ -14,9 +14,5 @@ for (i in 1:length(intrinseq_V)) {
 data
 
 
-steven = 26
-age = steven + 2 - 2
-
-
 
   

@@ -14,6 +14,4 @@ for (i in 1:length(intrinseq_V)) {
 data
 
 
-
-
-ohoh = 14
+ohoh = 15
